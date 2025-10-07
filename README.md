@@ -22,8 +22,8 @@ A user-friendly deep learning based face swapping tool that allows you to replac
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd faceswap-application
+   git clone https://github.com/ShayYeffet/FaceSwap.git
+   cd faceswap
    ```
 
 2. **Install dependencies**
